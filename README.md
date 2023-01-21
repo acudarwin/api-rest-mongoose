@@ -12,7 +12,7 @@ Al ser un proyecto en Node Express y MongoDB, se siguen las siguientes convencio
 
 ### Autores ✒️
 
-**Autor:** Darwin Acuña Vincenty,       darwin182008@gmail.com
-**Autor:** Darwin Acuña Vincenty,       darwin182008@gmail.com
-**Autor:** Darwin Acuña Vincenty,       darwin182008@gmail.com
+**Autor:** Acuña Vincenty Darwin
+**Autor:** Aguilar Verduguez Edwin
+**Autor:** Alanes Pardo Diego
 
