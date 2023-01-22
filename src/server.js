@@ -3,6 +3,7 @@ const app = require('./app');
 //mongo db connect
 const mongoose = require('mongoose');
 
+mongoose.set('strictQuery', false)
 mongoose.connect(process.env.DB_URL, {
     useNewUrlParser: true,
 }).then(() => {
